@@ -1,6 +1,7 @@
 [//]: # (![# PsycoLLM]&#40;assets/logo.png&#41;)
 
 # PsycoLLM: Enhancing LLM for Psychological Understanding and Evaluation
+## 中文心理大模型 PsycoLLM
 <img src="https://img.shields.io/badge/python-3.8+-blue.svg" /><a href='https://arxiv.org/pdf/2407.05721'><img src='https://img.shields.io/badge/ArXiv-2407.05721v2-red'></a>
 ## Latest News
 
