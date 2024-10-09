@@ -1,7 +1,8 @@
 [//]: # (![# PsycoLLM]&#40;assets/logo.png&#41;)
 
 # 中文心理大模型PsycoLLM
-Paper here -> PsycoLLM: [Enhancing LLM for Psychological Understanding and Evaluation](https://arxiv.org/pdf/2407.05721)
+Paper here -> PsycoLLM: [Enhancing LLM for Psychological Understanding and Evaluation](https://arxiv.org/pdf/2407.05721) \n
+
 <img src="https://img.shields.io/badge/python-3.8+-blue.svg" /><a href='https://arxiv.org/pdf/2407.05721'><img src='https://img.shields.io/badge/ArXiv-2407.05721v2-red'></a>
 
 ## 最近更新
@@ -10,13 +11,13 @@ Paper here -> PsycoLLM: [Enhancing LLM for Psychological Understanding and Evalu
 
 ## 项目简介
 
-### 以下是PsycoLLM的数据集准备过程的概览：
+### - 以下是PsycoLLM的数据集准备过程的概览：
 ![Overview of dataset preparation.](assets/dataset_overview.jpg)
 
-### 以下是一个完整的使用pipeline生成多轮对话的过程，其中包括数据生成、论证支持以及优化阶段：
+### - 以下是一个完整的使用pipeline生成多轮对话的过程，其中包括数据生成、论证支持以及优化阶段：
 ![Examples of the generated multi-turn dialogue data.](assets/multi_turn_example_v2.jpg)
 
-而生成基于知识的QA问答对的过程则是：
+### - 而生成基于知识的QA问答对的过程则是：
 ![Knowledge-based QA generation.](assets/knowledge-base-QA.jpg)
 
 ## 亮点
