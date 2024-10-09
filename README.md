@@ -1,13 +1,12 @@
 [//]: # (![# PsycoLLM]&#40;assets/logo.png&#41;)
 
 # 中文心理大模型PsycoLLM
-Paper here -> PsycoLLM: [Enhancing LLM for Psychological Understanding and Evaluation](https://arxiv.org/pdf/2407.05721) \n
-
 <img src="https://img.shields.io/badge/python-3.8+-blue.svg" /><a href='https://arxiv.org/pdf/2407.05721'><img src='https://img.shields.io/badge/ArXiv-2407.05721v2-red'></a>
+Paper here -> PsycoLLM: [Enhancing LLM for Psychological Understanding and Evaluation](https://arxiv.org/pdf/2407.05721)
 
 ## 最近更新
 
--🥰 [2024.9.22] 我们的中文心理大模型PsycoLLM正式发布！下载模型，请点击：[MACLAB-HFUT/PsycoLLM](https://huggingface.co/MACLAB-HFUT/PsycoLLM)
+-🥰 [2024.9.22] 我们的中文心理大模型PsycoLLM正式发布！如有需要下载模型，请点击此处：[MACLAB-HFUT/PsycoLLM](https://huggingface.co/MACLAB-HFUT/PsycoLLM)
 
 ## 项目简介
 
