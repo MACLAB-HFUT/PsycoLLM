@@ -11,6 +11,9 @@ Paper here -> PsycoLLM: [Enhancing LLM for Psychological Understanding and Evalu
 
 ## 项目简介
 
+### - 背景概述
+心理健康问题一直备受社会关注。在当代社会，每个人都可能遇上或多或少的难题，在心底慢慢堆积，便可能形成大的心理健康问题。青少年可能是因为校园霸凌、同学相处、原生家庭，年轻人可能是学业繁忙、工作压力大，老年人则可能是缺乏陪伴，需要抒发他们内心的不安与不满，以缓解环绕内心已久的心理问题。为此，我们精心制作了一份数据集，基于此进行大模型的微调，拟用于心理咨询。微调后的大模型在我们构建的评估集上表现优异，其 MCQ 准确率超过60%。
+
 ### - 以下是PsycoLLM的数据集准备过程的概览：
 ![Overview of dataset preparation.](assets/dataset_overview.jpg)
 
