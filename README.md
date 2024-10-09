@@ -1,31 +1,29 @@
 [//]: # (![# PsycoLLM]&#40;assets/logo.png&#41;)
 
-# PsycoLLM: Enhancing LLM for Psychological Understanding and Evaluation
-# 中文心理大模型 PsycoLLM
+# 中文心理大模型PsycoLLM
+Paper here -> PsycoLLM: [Enhancing LLM for Psychological Understanding and Evaluation](https://arxiv.org/pdf/2407.05721)
 <img src="https://img.shields.io/badge/python-3.8+-blue.svg" /><a href='https://arxiv.org/pdf/2407.05721'><img src='https://img.shields.io/badge/ArXiv-2407.05721v2-red'></a>
-## Latest News
 
--🥰 [2024.9.22] PsycoLLM is released! To download the model, please click here: [MACLAB-HFUT/PsycoLLM](https://huggingface.co/MACLAB-HFUT/PsycoLLM)🔥🔥🔥
+## 最近更新
 
+-🥰 [2024.9.22] 我们的中文心理大模型PsycoLLM正式发布！下载模型，请点击：[MACLAB-HFUT/PsycoLLM](https://huggingface.co/MACLAB-HFUT/PsycoLLM)
 
-## Introduction
+## 项目简介
 
-Here is an overview of dataset preparation:
+### 以下是PsycoLLM的数据集准备过程的概览：
 ![Overview of dataset preparation.](assets/dataset_overview.jpg)
 
-A comprehensive pipeline is used to generate multi-turn dialogue, which includes stages of generation, evidence support, and refinement:
+### 以下是一个完整的使用pipeline生成多轮对话的过程，其中包括数据生成、论证支持以及优化阶段：
 ![Examples of the generated multi-turn dialogue data.](assets/multi_turn_example_v2.jpg)
 
-The process for knowledge-based QA generation is:
+而生成基于知识的QA问答对的过程则是：
 ![Knowledge-based QA generation.](assets/knowledge-base-QA.jpg)
 
+## 亮点
 
-## Highlights
+- 我们根据官方的全国心理咨询师考试制作了一个benchmark。
 
-- We develop a benchmark based on official psychological examinations in China.
-
-- PsycoLLM achieve an accuracy rate surpassing 60\% in averaged MCQs in the proposed benchmark.
-
+- PsycoLLM 在该benchmark中的平均 MCQ 准确率超过了 60%。
 
 ## License
 
