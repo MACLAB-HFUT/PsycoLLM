@@ -7,6 +7,7 @@ Paper here -> PsycoLLM: [Enhancing LLM for Psychological Understanding and Evalu
 
 ## 最近更新
 -[2024.11.4]  PsycoLLM: Enhancing LLM for Psychological Understanding and Evaluation 被 IEEE Transactions on Computational Social Systems 接收
+
 -[2024.9.22] 我们的中文心理大模型PsycoLLM正式发布！如有需要下载模型，请点击此处：[MACLAB-HFUT/PsycoLLM](https://huggingface.co/MACLAB-HFUT/PsycoLLM)
 
 ## 项目简介
