@@ -6,8 +6,8 @@
 Paper here -> PsycoLLM: [Enhancing LLM for Psychological Understanding and Evaluation](https://arxiv.org/pdf/2407.05721)
 
 ## 最近更新
-
--🥰 [2024.9.22] 我们的中文心理大模型PsycoLLM正式发布！如有需要下载模型，请点击此处：[MACLAB-HFUT/PsycoLLM](https://huggingface.co/MACLAB-HFUT/PsycoLLM)
+-[2024.11.4]  PsycoLLM: Enhancing LLM for Psychological Understanding and Evaluation 被 IEEE Transactions on Computational Social Systems 接收
+-[2024.9.22] 我们的中文心理大模型PsycoLLM正式发布！如有需要下载模型，请点击此处：[MACLAB-HFUT/PsycoLLM](https://huggingface.co/MACLAB-HFUT/PsycoLLM)
 
 ## 项目简介
 
@@ -39,14 +39,12 @@ This repository is licensed under the [Apache-2.0 License](LICENSE).
 If this work is helpful, please kindly cite as:
 
 ```bibtex
-@misc{hu2024psycollmenhancingllmpsychological,
-      title={PsycoLLM: Enhancing LLM for Psychological Understanding and Evaluation}, 
-      author={Jinpeng Hu and Tengteng Dong and Hui Ma and Peng Zou and Xiao Sun and Meng Wang},
-      year={2024},
-      eprint={2407.05721},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2407.05721}, 
+@article{psycollm,
+  title={Psycollm: Enhancing llm for psychological understanding and evaluation},
+  author={Hu, Jinpeng and Dong, Tengteng and Gang, Luo and Ma, Hui and Zou, Peng and Sun, Xiao and Guo, Dan and Yang, Xun and Wang, Meng},
+  journal={IEEE Transactions on Computational Social Systems},
+  year={2024},
+  publisher={IEEE}
 }
 ```
 
