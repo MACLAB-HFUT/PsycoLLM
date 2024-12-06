@@ -30,6 +30,29 @@ Paper here -> PsycoLLM: [Enhancing LLM for Psychological Understanding and Evalu
 
 - PsycoLLM 在该benchmark中的平均 MCQ 准确率超过了 60%。
 
+## 快速使用
+1.克隆本项目至本地
+```bash
+git clone https://github.com/MACLAB-HFUT/PsycoLLM.git
+```
+2.配置环境
+```bash
+conda create -n PsycoLLM python=3.10
+conda activate PsycoLLM
+pip install -r requirements.txt
+```
+3.运行python文件run.py
+若在单卡上运行，则：
+```python
+python run.py
+```
+若在多张显卡上运行，可选择使用deepspeed zero2 或 deepspeed zero3
+```bash
+export CUDA_VISIBLE_DEVICES=0,1
+deepspeed --num_gpus=2 run.py --deepspeed_config ds_z3_config.json
+```
+4.开始交互
+
 ## License
 
 This repository is licensed under the [Apache-2.0 License](LICENSE).
