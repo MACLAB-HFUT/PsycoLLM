@@ -73,5 +73,6 @@ If this work is helpful, please kindly cite as:
 ```
 
 ## Acknowledgement
+感谢以下同学对本项目的帮助（排名不分先后），包括数据收集、模型评估等，赵佳琪、李绪彬、刘序雄、刘方园、李静远、戴崇远、徐开元
 
 This repo benefits from [PEFT](https://github.com/huggingface/peft), [TRL](https://github.com/huggingface/trl) and [LLaMA Factory](https://github.com/hiyouga/LLaMA-Factory). Thanks for their wonderful works.
