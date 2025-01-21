@@ -42,14 +42,8 @@ conda activate PsycoLLM
 pip install -r requirements.txt
 ```
 3.运行python文件run.py
-若在单卡上运行，则：
 ```python
-python run.py
-```
-若在多张显卡上运行，可选择使用deepspeed zero2 或 deepspeed zero3
-```bash
-export CUDA_VISIBLE_DEVICES=0,1
-deepspeed --num_gpus=2 run.py --deepspeed_config ds_z3_config.json
+deepspeed --num_gpus=2 run.py
 ```
 4.开始交互
 
