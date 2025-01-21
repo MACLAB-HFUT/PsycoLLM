@@ -233,7 +233,7 @@ def main():
     
     try:
         chat_bot = PsycoLLMChat(
-            model_path="MACLAB-HFUT/PsycoLLM",
+            model_path="MACLAB-HFUT/PsycoLLM", # this is your model
             cache_dir="./model_cache",
             local_rank=args.local_rank
         )
