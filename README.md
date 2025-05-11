@@ -57,13 +57,15 @@ This repository is licensed under the [Apache-2.0 License](LICENSE).
 If this work is helpful, please kindly cite as:
 
 ```bibtex
-@article{psycollm,
-  title={Psycollm: Enhancing llm for psychological understanding and evaluation},
-  author={Hu, Jinpeng and Dong, Tengteng and Gang, Luo and Ma, Hui and Zou, Peng and Sun, Xiao and Guo, Dan and Yang, Xun and Wang, Meng},
-  journal={IEEE Transactions on Computational Social Systems},
-  year={2024},
-  publisher={IEEE}
-}
+@ARTICLE{10772313,
+  author={Hu, Jinpeng and Dong, Tengteng and Luo, Gang and Ma, Hui and Zou, Peng and Sun, Xiao and Guo, Dan and Yang, Xun and Wang, Meng},
+  journal={IEEE Transactions on Computational Social Systems}, 
+  title={PsycoLLM: Enhancing LLM for Psychological Understanding and Evaluation}, 
+  year={2025},
+  volume={12},
+  number={2},
+  pages={539-551},
+  doi={10.1109/TCSS.2024.3497725}}
 ```
 
 ## Acknowledgement
